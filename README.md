@@ -1,2 +1,28 @@
-# da879629732ec49d-ecommerce-appointment-scheduli
-What if automate a multi-tool business process in an afternoon took minutes instead of hours?  Import the JSON, set your credentials, click activate. Running in minutes. Built for production: error handling, retry logic, and failure notifications included.  ## What's Included  - Ecommerce Appointment Scheduling And Reminders — fully configured and
+# Ecommerce Appointment Scheduling and Reminders Bot
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oU5kD7r1gaUg88dI0cZG2o)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oU5kD7r1gaUg88dI0cZG2o)
+
